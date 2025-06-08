@@ -1,5 +1,5 @@
 👋 Hi, I'm Beshoy Arnest!
-🎯 AI & Data Science Enthusiast | 📊 Passionate about Machine Learning & Deep Learning | 🚀 Building intelligent solutions
+🎯 Data Analysis & Data Science & AI Enthusiast | 📊 Passionate about Machine Learning & Deep Learning | 🚀 Building intelligent solutions
 
 🔥 About Me
 🧠 Exploring AI, Machine Learning, and Deep Learning
@@ -11,7 +11,7 @@
 🚀 Tech Stack
 🔹 Languages: Python, SQL
 🔹 ML & AI: TensorFlow, Scikit-Learn
-🔹 Data Science: Pandas, NumPy, Matplotlib, Seaborn
+🔹 Data Science & Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Excel, Power Bi
 🔹 Deployment: Flask
 🔹 Version Control: Git, GitHub
 
